@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1558669894 source:c:\users\hp\desktop\nueva carpeta\proyecto\main.cpp
+	<allegro.h>
+
+1559283643 source:c:\users\hp\desktop\autonoma\proyecto progra\proyecto\main.cpp
+	<allegro.h>
+	<time.h>
+	<cstdio>
+	"Alegro.h"
+	"vidas.h"
+	"exit.h"
+
+1559283643 c:\users\hp\desktop\autonoma\proyecto progra\proyecto\alegro.h
+
+1559283643 c:\users\hp\desktop\autonoma\proyecto progra\proyecto\vidas.h
+	<allegro.h>
+
+1559283643 c:\users\hp\desktop\autonoma\proyecto progra\proyecto\exit.h
+	<allegro.h>
+
